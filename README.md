@@ -13,4 +13,4 @@ django-admin startproject mysite
 ```
 This creates a mysite directory in the current directory. (Initial setup done)
 
-
+**[Following this site](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)**
